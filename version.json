@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.8.0",
-  "notes": "App storage: a read-only explorer for the app's private files under Settings → App — see what takes the space, read small files in place, share one out for a closer look, and delete only what the engine can safely lose. Also gone: the Remote control switch that couldn't deliver, and the stray slash in the browser's address strip.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.0/rabbit-0.8.0.apk",
-  "sizeBytes": 23877978
+  "versionCode": 11,
+  "versionName": "0.8.1",
+  "notes": "Rotation lock: a Screen group on Appearance holds the app in portrait however the phone is held. Selected options now wear the accent colour on every segment, the Appearance page lost its half-screen gaps, and the download page's Wi-Fi toggle finally dresses like the rest of the app. Plus 0.8.0's App storage explorer.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.1/rabbit-0.8.1.apk",
+  "sizeBytes": 23880306
 }
