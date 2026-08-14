@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "comment": "Site rules for the native extractor's Tier 3. Fetched daily by RulesStore; adding a site here reaches every install without an app release. Only sites where downloading is permitted belong in this file.",
+  "rules": [
+    {
+      "name": "archive.org",
+      "hosts": ["archive.org"],
+      "capture": "/details/([^/?#]+)",
+      "endpoint": "https://archive.org/metadata/{1}",
+      "base": "https://archive.org/download/{1}/",
+      "title": "metadata.title"
+    }
+  ]
+}

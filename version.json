@@ -1,0 +1,7 @@
+{
+  "versionCode": 8,
+  "versionName": "0.7.0",
+  "notes": "The dock wears the app's own rabbit, monochrome in your accent, and it carries live download progress as a ring. Appearance and Updates pages are rebuilt — theme rows, a new accent palette, real release notes and a moving download bar. The extractor page shows its three parts with one action each, and yt-dlp now keeps itself fresh automatically on Wi-Fi. Plus: shared pages hand their video straight to aria2, .html links read as pages, and the empty screen's torrent button opens the real file picker.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.7.0/rabbit-0.7.0.apk",
+  "sizeBytes": 23857290
+}
