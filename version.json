@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.1",
-  "notes": "Fixes a crash when pausing or cancelling a stream download. Plus everything 0.7.0 brought: the rabbit in the dock with live progress, rebuilt Appearance, Updates and Extractor pages, self-updating yt-dlp, and shared pages handing their video straight to aria2.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.7.1/rabbit-0.7.1.apk",
-  "sizeBytes": 23857102
+  "versionCode": 10,
+  "versionName": "0.8.0",
+  "notes": "App storage: a read-only explorer for the app's private files under Settings → App — see what takes the space, read small files in place, share one out for a closer look, and delete only what the engine can safely lose. Also gone: the Remote control switch that couldn't deliver, and the stray slash in the browser's address strip.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.0/rabbit-0.8.0.apk",
+  "sizeBytes": 23877978
 }
