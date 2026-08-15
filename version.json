@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.8.3",
-  "notes": "Notifications wear a face — a colour for downloading, waiting, done and stopped — with bold numbers, Play and Share right in the shade, and several outcomes folding into one card. A stream the site won't measure still shows bytes and speed. Resuming a download brings its notification back and keeps it safe from Android, and downloads recovered after the app was killed are protected the same way.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.3/rabbit-0.8.3.apk",
-  "sizeBytes": 23903274
+  "versionCode": 14,
+  "versionName": "0.8.4",
+  "notes": "An About card says who made this — once on first launch, and any time from Settings → App. The downloading notification no longer vanishes when the network hiccups, a download you paused stays paused when the app comes back, and old finished or stopped downloads are not announced again on every restart.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.4/rabbit-0.8.4.apk",
+  "sizeBytes": 23909310
 }
