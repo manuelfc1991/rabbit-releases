@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.8.1",
-  "notes": "Rotation lock: a Screen group on Appearance holds the app in portrait however the phone is held. Selected options now wear the accent colour on every segment, the Appearance page lost its half-screen gaps, and the download page's Wi-Fi toggle finally dresses like the rest of the app. Plus 0.8.0's App storage explorer.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.1/rabbit-0.8.1.apk",
-  "sizeBytes": 23880306
+  "versionCode": 12,
+  "versionName": "0.8.2",
+  "notes": "App storage is now your downloads, browsable — folders, sizes and dates. Files can be renamed from the file manager or the download page, deleting asks first and takes the list entry with the file, and removing a download now asks whether the file goes too. A finished download's button says Open unless it can actually Play, and the licences page got a face.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.2/rabbit-0.8.2.apk",
+  "sizeBytes": 23899074
 }
