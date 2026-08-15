@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.4",
-  "notes": "An About card says who made this — once on first launch, and any time from Settings → App. The downloading notification no longer vanishes when the network hiccups, a download you paused stays paused when the app comes back, and old finished or stopped downloads are not announced again on every restart.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.4/rabbit-0.8.4.apk",
-  "sizeBytes": 23909310
+  "versionCode": 15,
+  "versionName": "0.8.5",
+  "notes": "Long-press a link or image in the browser to open it in a new tab, in the background, download it, copy or share it. Links that ask for a new window open in a new Rabbit tab — pop-ups still can't. Fullscreen video works, with a way out, and 360° players can ask for what they need. Diagnostics opens at once.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.5/rabbit-0.8.5.apk",
+  "sizeBytes": 23929986
 }
