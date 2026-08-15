@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.8.5",
-  "notes": "Long-press a link or image in the browser to open it in a new tab, in the background, download it, copy or share it. Links that ask for a new window open in a new Rabbit tab — pop-ups still can't. Fullscreen video works, with a way out, and 360° players can ask for what they need. Diagnostics opens at once.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.5/rabbit-0.8.5.apk",
-  "sizeBytes": 23929986
+  "versionCode": 16,
+  "versionName": "0.8.6",
+  "notes": "The browser's address bar stays above the keyboard while you type. And a way to say thanks: Support Rabbit, a sponsorship link in About and Settings → App — the app is free and open source, and stays that way.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.6/rabbit-0.8.6.apk",
+  "sizeBytes": 23931634
 }
