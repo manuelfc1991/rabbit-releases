@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.8.8",
-  "notes": "A crash fix: adding a YouTube link no longer closes the app. The speed limit now applies to stream and video downloads too; removing an unfinished download removes what it had written; and clearer words when a server refuses a link.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.8/rabbit-0.8.8.apk",
-  "sizeBytes": 23935114
+  "versionCode": 19,
+  "versionName": "0.8.9",
+  "notes": "Add a link again in another quality or as audio; sizes that are only estimates now say so with ≈; audio-only downloads stay audio after a restart; the browser's catch sheet holds its rows still while open; and crashes are recorded on the phone with a Share button under Diagnostics.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.9/rabbit-0.8.9.apk",
+  "sizeBytes": 23941202
 }
