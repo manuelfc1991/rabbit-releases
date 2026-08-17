@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.9.1",
-  "notes": "Torrents: add trackers to a running torrent from its page, and set extra trackers for every torrent. The browser's catch sheet marks what is already queued and offers 'Get the rest'. A copied link is offered once, not again after a restart. Removing an unfinished download clears every leftover, even after the engine has gone idle.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.1/rabbit-0.9.1.apk",
-  "sizeBytes": 23986762
+  "versionCode": 22,
+  "versionName": "0.9.2",
+  "notes": "Removing a finished download with its file also removes its subtitle file and a torrent's .torrent.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.2/rabbit-0.9.2.apk",
+  "sizeBytes": 23987178
 }
