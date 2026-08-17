@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.9.0",
-  "notes": "Your own download window; paste many links at once; copied links offered on open; temporary failures retry themselves; checksums verified when a source states one; torrents can keep seeding to a ratio you set; subtitles and chapters; saved sites export/import; and a shareable log under Diagnostics.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.0/rabbit-0.9.0.apk",
-  "sizeBytes": 23973506
+  "versionCode": 21,
+  "versionName": "0.9.1",
+  "notes": "Torrents: add trackers to a running torrent from its page, and set extra trackers for every torrent. The browser's catch sheet marks what is already queued and offers 'Get the rest'. A copied link is offered once, not again after a restart. Removing an unfinished download clears every leftover, even after the engine has gone idle.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.1/rabbit-0.9.1.apk",
+  "sizeBytes": 23986762
 }
