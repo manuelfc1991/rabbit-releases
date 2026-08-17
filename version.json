@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.10.0",
-  "notes": "Queue order you control — long-press a card and move it; priority per download (High jumps to the front); schedule a download at a time, when on Wi-Fi, or after another; a per-download speed cap; and Start now on anything scheduled.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.0/rabbit-0.10.0.apk",
-  "sizeBytes": 24034202
+  "versionCode": 24,
+  "versionName": "0.10.1",
+  "notes": "Thumbnails on cards; title and source written into finished files; When finished rules (open, share, move, convert) with a default and per-download choice; pausing an accelerated video now really pauses; a chip-based time picker for scheduling; and the download page scrolls as one again.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.1/rabbit-0.10.1.apk",
+  "sizeBytes": 24088302
 }
