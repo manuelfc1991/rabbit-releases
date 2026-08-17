@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.8.7",
-  "notes": "A fix for the browser: tapping a link that opens in a new tab crashed the app. It now opens the tab.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.7/rabbit-0.8.7.apk",
-  "sizeBytes": 23931618
+  "versionCode": 18,
+  "versionName": "0.8.8",
+  "notes": "A crash fix: adding a YouTube link no longer closes the app. The speed limit now applies to stream and video downloads too; removing an unfinished download removes what it had written; and clearer words when a server refuses a link.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.8/rabbit-0.8.8.apk",
+  "sizeBytes": 23935114
 }
