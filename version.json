@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.9.2",
-  "notes": "Removing a finished download with its file also removes its subtitle file and a torrent's .torrent.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.2/rabbit-0.9.2.apk",
-  "sizeBytes": 23987178
+  "versionCode": 23,
+  "versionName": "0.10.0",
+  "notes": "Queue order you control — long-press a card and move it; priority per download (High jumps to the front); schedule a download at a time, when on Wi-Fi, or after another; a per-download speed cap; and Start now on anything scheduled.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.0/rabbit-0.10.0.apk",
+  "sizeBytes": 24034202
 }
