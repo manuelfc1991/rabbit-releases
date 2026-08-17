@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.8.9",
-  "notes": "Add a link again in another quality or as audio; sizes that are only estimates now say so with ≈; audio-only downloads stay audio after a restart; the browser's catch sheet holds its rows still while open; and crashes are recorded on the phone with a Share button under Diagnostics.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.9/rabbit-0.8.9.apk",
-  "sizeBytes": 23941202
+  "versionCode": 20,
+  "versionName": "0.9.0",
+  "notes": "Your own download window; paste many links at once; copied links offered on open; temporary failures retry themselves; checksums verified when a source states one; torrents can keep seeding to a ratio you set; subtitles and chapters; saved sites export/import; and a shareable log under Diagnostics.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.9.0/rabbit-0.9.0.apk",
+  "sizeBytes": 23973506
 }
