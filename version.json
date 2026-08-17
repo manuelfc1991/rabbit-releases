@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.8.6",
-  "notes": "The browser's address bar stays above the keyboard while you type. And a way to say thanks: Support Rabbit, a sponsorship link in About and Settings → App — the app is free and open source, and stays that way.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.6/rabbit-0.8.6.apk",
-  "sizeBytes": 23931634
+  "versionCode": 17,
+  "versionName": "0.8.7",
+  "notes": "A fix for the browser: tapping a link that opens in a new tab crashed the app. It now opens the tab.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.8.7/rabbit-0.8.7.apk",
+  "sizeBytes": 23931618
 }
