@@ -1,0 +1,7 @@
+{
+  "versionCode": 27,
+  "versionName": "0.10.4",
+  "notes": "Fixes for the new player: VR/360 crashed the app the moment it was switched on, the 360 picture was mirrored, full screen did not turn the phone, and Play from the browser opened behind the browser.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.4/rabbit-0.10.4.apk",
+  "sizeBytes": 26530371
+}
