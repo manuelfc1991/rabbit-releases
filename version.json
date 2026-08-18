@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.10.1",
-  "notes": "Thumbnails on cards; title and source written into finished files; When finished rules (open, share, move, convert) with a default and per-download choice; pausing an accelerated video now really pauses; a chip-based time picker for scheduling; and the download page scrolls as one again.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.1/rabbit-0.10.1.apk",
-  "sizeBytes": 24088302
+  "versionCode": 25,
+  "versionName": "0.10.2",
+  "notes": "Every file of a torrent listed and deletable as one; removing a download always asks; schedules set on paused downloads now fire; a clear Wi-Fi answer; every dialog in the app's own style; text boxes stay above the keyboard; the Add sheet's picks wear the accent, show the picture and sweep while reading; times follow the phone's 12/24-hour setting.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.2/rabbit-0.10.2.apk",
+  "sizeBytes": 24106338
 }
