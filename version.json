@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.10.6",
-  "notes": "Moving files onto the phone \u2014 Movies, Music, Pictures, Download \u2014 now goes through Android's media library, so it actually works and the files appear in your gallery. Selecting files no longer hides its buttons behind the dock.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.6/rabbit-0.10.6.apk",
-  "sizeBytes": 26540491
+  "versionCode": 30,
+  "versionName": "0.10.7",
+  "notes": "Play on a download whose file was deleted now says so and offers to fetch it again, instead of a black screen that never starts.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.7/rabbit-0.10.7.apk",
+  "sizeBytes": 26542267
 }
