@@ -1,7 +1,0 @@
-{
-  "versionCode": 26,
-  "versionName": "0.10.3",
-  "notes": "Rabbit's own video player: watch a download while it is still arriving, play a stream straight from the browser, turn the phone for full screen, and 360/VR video with a headset mode. The Files browser no longer hides rows behind the dock, says what each file is, and can move files and folders anywhere \u2014 including out of Rabbit onto the phone.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.3/rabbit-0.10.3.apk",
-  "sizeBytes": 26529331
-}
