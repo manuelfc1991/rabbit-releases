@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.10.2",
-  "notes": "Every file of a torrent listed and deletable as one; removing a download always asks; schedules set on paused downloads now fire; a clear Wi-Fi answer; every dialog in the app's own style; text boxes stay above the keyboard; the Add sheet's picks wear the accent, show the picture and sweep while reading; times follow the phone's 12/24-hour setting.",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.2/rabbit-0.10.2.apk",
-  "sizeBytes": 24106338
+  "versionCode": 26,
+  "versionName": "0.10.3",
+  "notes": "Rabbit's own video player: watch a download while it is still arriving, play a stream straight from the browser, turn the phone for full screen, and 360/VR video with a headset mode. The Files browser no longer hides rows behind the dock, says what each file is, and can move files and folders anywhere \u2014 including out of Rabbit onto the phone.",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.3/rabbit-0.10.3.apk",
+  "sizeBytes": 26529331
 }
