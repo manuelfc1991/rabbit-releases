@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.10.10",
-  "notes": "Play on a finished video or song opens Rabbit's own player, instead of asking the phone which app to use · \"In this folder\" now lists everything that came down together — a whole season, not just the folder one file happens to sit in · VR videos play the right way up, and dragging turns the view the way you drag it. Up and down works now too · The notification shade and the lock screen really do show what is playing, with its title, where it came from and its picture. 0.10.9 promised this and did not deliver it · Fixed: signs and song titles from an .mkv's own subtitle track printed as a wall of numbers across the video · Fixed: the bar above the dock covered the last item in a list, with no way to scroll it clear · Fixed: playing anything would have replaced a running download's progress notification · The browser's list of finds has one button again: Get",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.10/rabbit-0.10.10.apk",
-  "sizeBytes": 27233316
+  "versionCode": 34,
+  "versionName": "0.10.11",
+  "notes": "The player is built for thumbs: play, skip, the scrub bar and every button on the picture are now the size Android asks for. Nothing moved — they were all too small to hit · The page behind the video is lit by the video's own colour, taken from its thumbnail · The video sits in a card, and the time on the right is how much is left rather than how long it is · Double tap the left or right of the picture to skip ten seconds, press and hold for 2×, slide up and down for brightness on the left and volume on the right · Turned sideways, the controls gather into one bar across the foot of the screen · A new rotate button beside full screen: follow the phone, hold sideways, or hold upright · Fixed: a video that was not 16:9 — an old 4:3 clip, say — was stretched to fill the frame. It keeps its own shape now · Fixed: the buttons along the top of the picture stopped responding in 0.10.10",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.11/rabbit-0.10.11.apk",
+  "sizeBytes": 27249660
 }
