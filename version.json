@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.10.13",
-  "notes": "Fixed: a folder could be offered as a place to move itself into. Taking that offer would have copied it into itself until the phone was full · Fixed: moving a file out of Rabbit left the download saying it was still in app storage, and listing the wrong folder's files beside it · Fixed: the move sheet said \"1 file\" when what was picked was a folder",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.13/rabbit-0.10.13.apk",
-  "sizeBytes": 27262136
+  "versionCode": 37,
+  "versionName": "0.10.14",
+  "notes": "Convert a finished file: take the sound out as MP3 or M4A, or rewrap a video as MP4. Where it cannot be done, it says why rather than hiding the option · Every format, not three: a More… beside the quality tiles lists everything a page offers, with its codec, frame rate and size · It warns which ones your phone would decode in software — a smaller file that makes the phone hot is the worse answer, and only Rabbit is in a position to say so · Picking a video-only stream now takes its sound with it · Site rules: import one for a site Rabbit does not know yet. Yours survive the daily refresh, and only yours can be removed · A failed page can be reported. It shows what would be sent, then opens your browser at a filled-in issue — it never sends anything itself · Every word in the app now lives in one file, which is what any translation has to start from. Counts read properly too — \"1 file\", \"3 files\" · Fixed: several places decided what to do by reading English text off the screen. The settings pages would all have broken in any other language",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.14/rabbit-0.10.14.apk",
+  "sizeBytes": 27481700
 }
