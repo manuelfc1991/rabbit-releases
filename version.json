@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.10.12",
-  "notes": "Subtitles inside a video can finally be chosen. An .mkv from a rip carries several — the dialogue, the signs and songs, sometimes another language — and Rabbit could play none of them · The ⋯ sheet lists what the file actually holds, each named by its language in its own language, with what it is for beside it · Add a subtitle file… takes one from anywhere on the phone. It is copied next to the video, so it is still there next time and travels with the file if you move it · The × removes one you added, after asking. A track inside the video has no × — it is part of the video · The CC button now appears whenever there is anything to turn on, not only when a subtitle file was saved beside the video · Your choice is remembered for the site, like the quality and the VR layout",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.12/rabbit-0.10.12.apk",
-  "sizeBytes": 27261836
+  "versionCode": 36,
+  "versionName": "0.10.13",
+  "notes": "Fixed: a folder could be offered as a place to move itself into. Taking that offer would have copied it into itself until the phone was full · Fixed: moving a file out of Rabbit left the download saying it was still in app storage, and listing the wrong folder's files beside it · Fixed: the move sheet said \"1 file\" when what was picked was a folder",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.13/rabbit-0.10.13.apk",
+  "sizeBytes": 27262136
 }
