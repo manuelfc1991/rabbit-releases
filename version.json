@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "0.10.11",
-  "notes": "The player is built for thumbs: play, skip, the scrub bar and every button on the picture are now the size Android asks for. Nothing moved — they were all too small to hit · The page behind the video is lit by the video's own colour, taken from its thumbnail · The video sits in a card, and the time on the right is how much is left rather than how long it is · Double tap the left or right of the picture to skip ten seconds, press and hold for 2×, slide up and down for brightness on the left and volume on the right · Turned sideways, the controls gather into one bar across the foot of the screen · A new rotate button beside full screen: follow the phone, hold sideways, or hold upright · Fixed: a video that was not 16:9 — an old 4:3 clip, say — was stretched to fill the frame. It keeps its own shape now · Fixed: the buttons along the top of the picture stopped responding in 0.10.10",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.11/rabbit-0.10.11.apk",
-  "sizeBytes": 27249660
+  "versionCode": 35,
+  "versionName": "0.10.12",
+  "notes": "Subtitles inside a video can finally be chosen. An .mkv from a rip carries several — the dialogue, the signs and songs, sometimes another language — and Rabbit could play none of them · The ⋯ sheet lists what the file actually holds, each named by its language in its own language, with what it is for beside it · Add a subtitle file… takes one from anywhere on the phone. It is copied next to the video, so it is still there next time and travels with the file if you move it · The × removes one you added, after asking. A track inside the video has no × — it is part of the video · The CC button now appears whenever there is anything to turn on, not only when a subtitle file was saved beside the video · Your choice is remembered for the site, like the quality and the VR layout",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.12/rabbit-0.10.12.apk",
+  "sizeBytes": 27261836
 }
