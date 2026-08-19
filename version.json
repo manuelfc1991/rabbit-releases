@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.10.9",
-  "notes": "Music keeps playing when you leave the player: a bar above the dock shows what is on, with pause and a way back · The lock screen, the notification shade and headphone buttons now control playback · Subtitles: a .vtt or .srt file saved beside a video is read and shown, with a CC button to turn it off · Picture in picture — carry on watching while you use the phone (⋯ → Picture in picture) · Fixed: an audio file from a site you had watched a 360 video on opened as a black globe",
-  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.9/rabbit-0.10.9.apk",
-  "sizeBytes": 27228380
+  "versionCode": 33,
+  "versionName": "0.10.10",
+  "notes": "Play on a finished video or song opens Rabbit's own player, instead of asking the phone which app to use · \"In this folder\" now lists everything that came down together — a whole season, not just the folder one file happens to sit in · VR videos play the right way up, and dragging turns the view the way you drag it. Up and down works now too · The notification shade and the lock screen really do show what is playing, with its title, where it came from and its picture. 0.10.9 promised this and did not deliver it · Fixed: signs and song titles from an .mkv's own subtitle track printed as a wall of numbers across the video · Fixed: the bar above the dock covered the last item in a list, with no way to scroll it clear · Fixed: playing anything would have replaced a running download's progress notification · The browser's list of finds has one button again: Get",
+  "apkUrl": "https://github.com/manuelfc1991/rabbit-releases/releases/download/v0.10.10/rabbit-0.10.10.apk",
+  "sizeBytes": 27233316
 }
